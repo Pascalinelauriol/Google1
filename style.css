@@ -1,0 +1,106 @@
+html body{
+  height: 100%;
+  }
+
+.gmail{
+   font-size: 13px;
+   padding: 0px 0px 0px 15px;
+   text-decoration: none;
+   color: black;
+  }
+.Images{
+  font-size: 13px;
+  padding: 0px 15px 0px 15px;
+  text-decoration: none;
+  color: black;
+  }
+.boutton {
+  background-color: rgba(6,98,251);
+  color: ivory;
+  border-radius: 10px;}
+
+.boutton3 {
+  margin-top: 20px;
+  display:flex;
+  justify-content:flex-end;
+  }
+
+header {
+  display:flex;
+  justify-content:flex-end;
+  margin-top: 5px;
+  align-items: center;
+  padding: 0px 4px 0px 0px;
+  }
+
+.logo {
+  width: 250px;
+  height: auto;   
+  }
+
+
+article{
+  margin-top: 200px;
+  text-align: center;
+  }
+
+.boutton2 {
+  margin-top: 35px;
+  width: 550px;
+  height: 30px;
+  border-radius: 30px;
+  padding: 5px 40px 5px 40px;
+  font-size: 16px;
+  margin-bottom: 25px;
+  outline: 0;
+  border: 1px solid rgb(220, 220, 220);
+  background-image: url(./Image/loupe.png);
+  background-repeat: no-repeat;
+  }
+
+.loupe {
+  background: url(./Image/loupe.png) no-repeat left 1px top 1px;
+  background-size: 1px;
+  }
+
+.bouttons {
+  display: flex;
+  justify-content: center;
+  }
+
+.boutton3 {
+  margin-left: 25px;
+  margin-right: 25px;
+  padding: 10px 40px;
+  font-size: 14px;
+  color:#5F6368;
+  background-color: #f2f2f2;
+  border-radius: 4px;
+  border: 1px solid #f2f2f2;
+  cursor:pointer;}
+
+.France{
+  margin-top: 200px;
+  background-color:#f2f2f2;
+  color: dimgrey;
+  display: flex;
+  align-items: flex-end;
+  }
+
+.pied{ 
+    color: dimgrey;
+    display: flex;
+    justify-content:space-between;
+    background-color: #f2f2f2;
+    }
+
+.pied a{
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  background-color: #f2f2f2;
+    color: #666;
+    text-decoration: none;
+}
+   
+
+
